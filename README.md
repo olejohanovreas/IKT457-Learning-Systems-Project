@@ -7,12 +7,9 @@ This repository contains the code and data for the **"Predicting Hex Game Winner
 ## Repository Structure
 
 ### 1. **Main Directory**
-- **`hex_data.csv`**  
-  A CSV file containing 2000 rows of 4x4 boards.
-- **`hex_data.csv`**  
-  A CSV file containing 2000 rows of 4x4 boards.
-- **`hex_data.csv`**  
-  A CSV file containing 2000 rows of 4x4 boards.
+- `dataset_generator.ipynb`: Contains the code used to generate the datasets.
+- `hex_data.csv`: A CSV file containing 2000 rows of 4x4 boards.
+- `visual_generator.ipynb`: Contains code used to illustrate some of the illustrations used in the report.
 
 ### 2. **Experiments**  
 Contains the various experimental configurations and feature engineering attempts:
