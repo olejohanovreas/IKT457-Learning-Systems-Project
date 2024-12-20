@@ -9,6 +9,10 @@ This repository contains the code and data for the **"Predicting Hex Game Winner
 ### 1. **Main Directory**
 - **`hex_data.csv`**  
   A CSV file containing 2000 rows of 4x4 boards.
+- **`hex_data.csv`**  
+  A CSV file containing 2000 rows of 4x4 boards.
+- **`hex_data.csv`**  
+  A CSV file containing 2000 rows of 4x4 boards.
 
 ### 2. **Experiments**  
 Contains the various experimental configurations and feature engineering attempts:
